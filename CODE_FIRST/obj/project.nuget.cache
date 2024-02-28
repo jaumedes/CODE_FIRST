@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AkybzHBZ6alCnQfelAV7QUhnss6Q/9reRP0bF4drKE5GdGBAef/f2eimuWO3i0a3ch73vhgwjtXAiFeq3YTxPw==",
+  "dgSpecHash": "ukK22H6+9B5AY40l5yImyQlC/uGXrzZAUduV+66wuol0dlT8Tvnud4XfkOy8Qh0j8aZyfjsFKcAReYkV+xtaSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\Code_FIRST\\CODE_FIRST\\CODE_FIRST.csproj",
+  "projectFilePath": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\CODE.FIRST.PROJECTES\\CODE_FIRST\\CODE_FIRST\\CODE_FIRST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\strifex17\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\strifex17\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

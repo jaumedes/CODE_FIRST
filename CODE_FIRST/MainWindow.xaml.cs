@@ -27,21 +27,6 @@ namespace CODE_FIRST
             InitializeComponent();
             manager = DAOManagerFactory.CreateDaoManager(companydbc);
 
-            //OK
-            //manager.ImportOffices();
-            //OK
-            //manager.ImportEmployees();
-            //OK
-            //manager.ImportCustomers();            
-            //OK
-            //manager.ImportPayments();
-            //OK
-            //manager.ImportOrders();
-            //OK
-            //manager.ImportProductLines();
-            //OK
-            //manager.ImportProducts();
-            manager.ImportOrderDetails();
         }
 
     }

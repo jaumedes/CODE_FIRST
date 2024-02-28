@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\Code_FIRST\\CODE_FIRST\\CODE_FIRST.csproj": {}
+    "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\CODE.FIRST.PROJECTES\\CODE_FIRST\\CODE_FIRST\\CODE_FIRST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\Code_FIRST\\CODE_FIRST\\CODE_FIRST.csproj": {
+    "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\CODE.FIRST.PROJECTES\\CODE_FIRST\\CODE_FIRST\\CODE_FIRST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\Code_FIRST\\CODE_FIRST\\CODE_FIRST.csproj",
+        "projectUniqueName": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\CODE.FIRST.PROJECTES\\CODE_FIRST\\CODE_FIRST\\CODE_FIRST.csproj",
         "projectName": "CODE_FIRST",
-        "projectPath": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\Code_FIRST\\CODE_FIRST\\CODE_FIRST.csproj",
+        "projectPath": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\CODE.FIRST.PROJECTES\\CODE_FIRST\\CODE_FIRST\\CODE_FIRST.csproj",
         "packagesPath": "C:\\Users\\strifex17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\Code_FIRST\\CODE_FIRST\\obj\\",
+        "outputPath": "C:\\Users\\strifex17\\Desktop\\DAM\\DAM 2\\MP06 - Data Access\\UF4\\CODE.FIRST.PROJECTES\\CODE_FIRST\\CODE_FIRST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
